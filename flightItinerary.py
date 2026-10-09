@@ -1,3 +1,4 @@
+#Flight Itinerary from Baton Rouge, LA to Boston, MA with stops
 flight_route = [("Baton Rouge, LA", "Nashville, TN"), ("Nashville, TN", "Indianapolis, IN"),
                 ("Indianapolis, IN", "Cleveland, OH"), ("Cleveland, OH", "Boston, MA")]
 
